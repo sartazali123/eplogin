@@ -8,7 +8,7 @@ public class DemoController {
     @GetMapping("/test")
     public String display(){
 
-        return "hello test rest api...";
+        return "hello test rest api... india is great";
     }
 
 }
